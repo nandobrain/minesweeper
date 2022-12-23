@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    height: 760px;
+    width: 720px;
+}
+
+.header {
+    height: 40px;
+    width: 720px;
+    display: flex;
+    flex-flow: wrap;
+}
